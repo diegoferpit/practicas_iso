@@ -1,0 +1,5 @@
+Para añadirlo
+git add .
+
+Para confirmar los cambios realizados en la rama de trabajo
+git commit -m "Mensaje clave"
