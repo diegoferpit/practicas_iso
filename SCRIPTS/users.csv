@@ -1,0 +1,8 @@
+# Sólo se comentan de línea a línea por esta forma
+# Para especificar que alguien no tiene apellidos, 
+# se deja en blanco y se pone al coma para indicar 
+# la finalización de su campo concreto y así que pase al siguiente.
+Nombre, Apellidos, Expediente, Pass
+Victor, González Rodríguez, 1234, paso
+Paquito, Alonso Pérez, 5678, paso
+Luis,,3434, 1234
